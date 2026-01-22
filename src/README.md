@@ -1,9 +1,9 @@
-## The Loomio Co-op Handbook
+## The Bridging Hearts Bereavement Support Handbook
 
-### An update for 2022
-This handbook was written circa 2016. We preseve it here because it's a useful history of the organization at the time. 
+### Proposed 2026
+This handbook was written circa 2026. We preseve it here because it's a useful history of the organization at the time. 
 
-In 2022, 10 years since Loomio launched, the team is smaller, but also more experienced. We're currently just 4 people in operational roles and 4 in advisory roles. We're still a worker-owned cooperative, and we're just as passionate about our work today as we were when this book was written - we've just changed how we work to suit our smaller team. We're proud of this handbook as it is, and hope you find something useful within.
+In 2026, X years since the informal group Mending Hearts formed, some members wished to capture the essense of our bereavement support group in a more formal way in order to produce a sustainable nonprofit, capable of recreating the benefits realized from a bereavement group. Most if not all members of the Mending Hearts group expierenced profound bennefits through participation. A passionate belief in this group process developed while witnessing many community members struggling/suffering the loss of a loved one without an easy to use support system. A "pay-it-forward" concept grew to develop an entity that could provide support that allowed entry without bareiers such as faith and cost.  Support that co-existed and complimented existiing services but was based on a social science concept of Together and Connected.  Bridging Hearts Bereavement Support (BHBS) was born from the sucess and expierence of Mending Hearts.  BHBS is a New Hampshire 501(c)3 entity focused on providing support for those greiving the loss of a loved one. This handbook is intended to be the fundemental working guidelines, structure and history of BHBS as well as an archive for reference.
 
 If you're interested in using Loomio, you're welcome to try a demo or start a trial at [loomio.com](https://www.loomio.com).
 
